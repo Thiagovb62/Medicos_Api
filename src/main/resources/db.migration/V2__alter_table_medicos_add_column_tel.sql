@@ -1,0 +1,1 @@
+alter TABLE medico ADD telefone varchar(20) not null ;
